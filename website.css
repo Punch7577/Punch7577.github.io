@@ -1,0 +1,109 @@
+body{
+    background: linear-gradient(orangered, rgb(255, 238, 0))
+}
+#don{
+    transform: skewX(26deg);
+}
+h1{
+    font-family: "Rubik Mono One";
+    color: rgb(4, 0, 255);
+    background-color: rgb(255, 0, 0);
+    border-style: ridge;
+    border-color: aliceblue;
+    border-radius: 0.1cm;
+    
+}
+#TrumpFlag{
+    position: absolute;
+    top: 800px;
+    left: 1550px;
+}
+h2{
+    color: rgb(104, 76, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#p43{
+    border-style: double;
+    border-color: rgb(255, 0, 0);
+    color: aliceblue;
+    background-color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#p1{
+    font-family: "Rubik Mono One";
+    color: rgb(0, 47, 255);
+    border-style: inset;
+    border-color: rgb(0, 247, 255);
+    border-top-color: rgb(255, 0, 0);
+    border-bottom-color: blue;
+    background-color: rgb(90, 249, 255);
+}
+#p2{
+    font-family: "Rubik Mono One";
+}
+#trump3{
+    position: absolute;
+    top: 929px;
+    left: 600px;
+}
+#p3{
+    font-size: medium;
+    background-color: rgb(255, 238, 0);
+    border-style: dotted;
+    border-color: rgb(80, 80, 255);
+}
+#trumpexplain{
+    position: absolute;
+    top: 1300px;
+}
+#plantation1{
+    position: absolute;
+    top: 1300px;
+    left: 270px;
+    font-style: italic;
+    font-weight: 700;
+}
+#plantation2{
+    position: absolute;
+    top: 1320px;
+    left: 270px;
+    font-style: italic;
+    font-weight: 700;
+}
+#plantation3{
+    position: absolute;
+    top: 1360px;
+    left: 270px;
+}
+#plantation4{
+    position: absolute;
+    top: 1380px;
+    left: 270px;
+}
+#trump2{
+    position: absolute;
+    top: 1084px;
+    left: 500px;
+}
+#RealTrump{
+    position: absolute;
+    top: 875px;
+    left:900px;
+    border-style: inset;
+    border-color:rgb(0, 225, 255)
+}
+#tat{
+    position: absolute;
+    top: 1520px;
+    left: 565px;
+    font-style: italic;
+    background: #0011ff;
+    color: aliceblue;
+    border-style: double;
+    border-color: rgb(255, 0, 0);
+}
+#tate{
+    position: absolute;
+    top: 1562px;
+    left: 560px;
+}
