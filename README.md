@@ -10,3 +10,5 @@ I was Messing around and somehow made this abomination of a 'Website'.
 I actually support this guy, but I like to make fun of him anyway (you will see what I mean).
 If you don't like my Garbage, then thats okay, because I'm making a Keylogger with a Discord Webhook embedded into it right now.
 It should be done soon, So if you want actual Software, then be sure to come here in a few days (or weeks idk).
+
+https://punch7577.github.io
