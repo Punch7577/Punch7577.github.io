@@ -15,8 +15,8 @@ h1{
 }
 #TrumpFlag{
     position: absolute;
-    top: 800px;
-    left: 1550px;
+    top: 817px;
+    left: 950px;
 }
 h2{
     color: rgb(104, 76, 0);
@@ -43,7 +43,7 @@ h2{
 }
 #trump3{
     position: absolute;
-    top: 929px;
+    top: 945px;
     left: 600px;
 }
 #p3{
@@ -51,6 +51,11 @@ h2{
     background-color: rgb(255, 238, 0);
     border-style: dotted;
     border-color: rgb(80, 80, 255);
+}
+#vid{
+    position: absolute;
+    top: 1420px;
+    left: 400px;
 }
 #trumpexplain{
     position: absolute;
@@ -82,12 +87,12 @@ h2{
 }
 #trump2{
     position: absolute;
-    top: 1084px;
+    top: 1102px;
     left: 500px;
 }
 #RealTrump{
     position: absolute;
-    top: 875px;
+    top: 895px;
     left:900px;
     border-style: inset;
     border-color:rgb(0, 225, 255)
